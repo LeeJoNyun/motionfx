@@ -26,8 +26,8 @@ curl -fsSL https://raw.githubusercontent.com/LeeJoNyun/motionfx/main/install.sh 
 
 | 컴퓨터 | 파일 |
 |---|---|
-| 맥 (M1 이상, macOS 12 이상) | `MotionFX-0.1.2-mac-arm64.dmg` |
-| 윈도우 10·11 (64비트) | `MotionFX-0.1.2-win-x64.zip` |
+| 맥 (M1 이상, macOS 12 이상) | `MotionFX-0.1.3-mac-arm64.dmg` |
+| 윈도우 10·11 (64비트) | `MotionFX-0.1.3-win-x64.zip` |
 
 인텔 맥은 아직 지원하지 않습니다.
 
