@@ -4,7 +4,23 @@
 
 마음에 드는 편집 방식은 「내 방식」에 저장해 두고 영상마다 골라 쓰면 됩니다. 영상 파일은 컴퓨터 밖으로 나가지 않습니다.
 
-## 내려받기
+## 한 줄로 설치
+
+**윈도우**: 시작 메뉴에서 PowerShell 을 열고 붙여 넣으세요. 바탕화면과 시작 메뉴에 바로가기가 생깁니다.
+
+```powershell
+irm https://raw.githubusercontent.com/LeeJoNyun/motionfx/main/install.ps1 | iex
+```
+
+**맥 (M1 이상)**: 터미널을 열고 붙여 넣으세요. 응용 프로그램 폴더에 들어가고, 이렇게 깔면 "확인되지 않은 개발자" 창도 뜨지 않습니다.
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/LeeJoNyun/motionfx/main/install.sh | bash
+```
+
+새 판이 나오면 같은 줄을 다시 치면 됩니다. 만들어 둔 방식과 작업은 그대로 남습니다. 윈도우에서 지울 때는 `irm https://raw.githubusercontent.com/LeeJoNyun/motionfx/main/uninstall.ps1 | iex` 를 치세요.
+
+## 직접 내려받기
 
 [Releases](https://github.com/LeeJoNyun/motionfx/releases/latest)에서 컴퓨터에 맞는 파일을 받으세요.
 
