@@ -26,8 +26,8 @@ curl -fsSL https://raw.githubusercontent.com/LeeJoNyun/motionfx/main/install.sh 
 
 | 컴퓨터 | 파일 |
 |---|---|
-| 맥 (M1 이상, macOS 12 이상) | `MotionShortsroom-0.1.10-mac-arm64.dmg` |
-| 윈도우 10·11 (64비트) | `MotionShortsroom-0.1.10-win-x64.zip` |
+| 맥 (M1 이상, macOS 12 이상) | `MotionShortsroom-0.1.11-mac-arm64.dmg` |
+| 윈도우 10·11 (64비트) | `MotionShortsroom-0.1.11-win-x64.zip` |
 
 인텔 맥은 아직 지원하지 않습니다.
 
@@ -53,8 +53,8 @@ curl -fsSL https://raw.githubusercontent.com/LeeJoNyun/motionfx/main/install.sh 
 
 대화 기능을 쓰려면 셋 중 하나가 필요합니다. 앱에 키가 들어 있지는 않습니다.
 
-- 설정 → 쇼츠룸 계정에서 로그인합니다. 브라우저가 열리고, 로그인을 마치면 앱으로 돌아옵니다. 지금은 시험 계정만 쓸 수 있습니다. 받아쓴 글자와 대화가 쇼츠룸 서버를 거쳐 Claude 로 갑니다.
-- 설정 → Claude 연결에 본인 Claude API 키를 넣습니다. 키는 이 컴퓨터에만 저장되고, 요금은 키 주인의 Claude 계정으로 나갑니다.
+- 앱을 켜면 첫 화면에서 쇼츠룸 계정으로 로그인합니다. 로그인은 앱 창 안에서 끝납니다. 지금은 시험 계정만 쓸 수 있습니다. 받아쓴 글자와 대화가 쇼츠룸 서버를 거쳐 Claude 로 갑니다.
+- 로그인한 뒤 설정 → Claude 연결에 본인 Claude API 키를 넣을 수도 있습니다. 키는 이 컴퓨터에만 저장되고, 요금은 키 주인의 Claude 계정으로 나갑니다.
 - 이 컴퓨터에 Claude Code 를 깔고 로그인해 두면 키 없이 그 계정으로 연결됩니다.
 
 둘 다 없어도 영상은 기본 규칙으로 만들어지지만, 말로 고치는 기능은 쓸 수 없습니다.
