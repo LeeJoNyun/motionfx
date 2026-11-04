@@ -1,4 +1,4 @@
-# MotionFX
+# 모션쇼츠룸
 
 말하는 세로 영상(1분 안쪽)을 넣으면 말에 맞춰 큰 글자, 자막, 설명 카드 같은 모션그래픽을 입혀 줍니다. 사람 뒤로 글자가 지나가도록 인물을 따로 오려 내는 것도 앱이 알아서 합니다.
 
@@ -26,8 +26,8 @@ curl -fsSL https://raw.githubusercontent.com/LeeJoNyun/motionfx/main/install.sh 
 
 | 컴퓨터 | 파일 |
 |---|---|
-| 맥 (M1 이상, macOS 12 이상) | `MotionFX-0.1.4-mac-arm64.dmg` |
-| 윈도우 10·11 (64비트) | `MotionFX-0.1.4-win-x64.zip` |
+| 맥 (M1 이상, macOS 12 이상) | `MotionShortsroom-0.1.8-mac-arm64.dmg` |
+| 윈도우 10·11 (64비트) | `MotionShortsroom-0.1.8-win-x64.zip` |
 
 인텔 맥은 아직 지원하지 않습니다.
 
@@ -35,9 +35,9 @@ curl -fsSL https://raw.githubusercontent.com/LeeJoNyun/motionfx/main/install.sh 
 
 정식 서명을 받지 않은 앱이라 처음 한 번은 운영체제가 막습니다.
 
-**맥**: dmg를 열어 MotionFX를 응용 프로그램 폴더로 끌어 넣습니다. 처음 열면 "확인되지 않은 개발자" 창이 뜨는데, 그때 시스템 설정 → 개인정보 보호 및 보안으로 가서 맨 아래 「그래도 열기」를 누르면 됩니다.
+**맥**: dmg를 열어 MotionShortsroom을 응용 프로그램 폴더로 끌어 넣습니다. 처음 열면 "확인되지 않은 개발자" 창이 뜨는데, 그때 시스템 설정 → 개인정보 보호 및 보안으로 가서 맨 아래 「그래도 열기」를 누르면 됩니다.
 
-**윈도우**: zip을 풀고 `MotionFX` 폴더 안의 `MotionFX.exe`를 실행합니다. 파란 "Windows의 PC 보호" 창이 뜨면 「추가 정보」 → 「실행」을 누르세요. 폴더째로 원하는 곳에 옮겨 두고 써도 됩니다.
+**윈도우**: zip을 풀고 `MotionShortsroom` 폴더 안의 `MotionShortsroom.exe`를 실행합니다. 파란 "Windows의 PC 보호" 창이 뜨면 「추가 정보」 → 「실행」을 누르세요. 폴더째로 원하는 곳에 옮겨 두고 써도 됩니다.
 
 첫 영상을 만들 때 받아쓰기 모델(약 550MB)을 한 번 내려받습니다. 그다음부터는 인터넷 없이도 받아쓰기가 됩니다.
 
